@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "applicationId": "com.example.android.sip",
+  "variantType": "BASE_APK",
+  "elements": [
+    {
+      "outputType": {
+        "type": "PROCESSED_RES"
+      },
+      "apkData": {
+        "type": "MAIN",
+        "splits": [],
+        "versionCode": -1,
+        "outputFile": "app-debug.apk",
+        "fullName": "debug",
+        "baseName": "debug",
+        "dirName": ""
+      },
+      "path": "resources-debug.ap_",
+      "properties": {
+        "packageId": "com.example.android.sip",
+        "split": "",
+        "minSdkVersion": "9"
+      }
+    }
+  ]
+}
